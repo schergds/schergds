@@ -21,5 +21,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=schergds&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=default" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=schergds&theme=default" width="48%" />
 </p>
-
----
