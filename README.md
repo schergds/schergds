@@ -8,10 +8,10 @@
 
 ### 🛠️ Languages & Tools
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
