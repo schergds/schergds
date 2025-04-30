@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Guilherme da Silva Scher
 
-🎓 Computer Science student at **Universidade Franciscana**  
-💻 Currently working with **Java**, **C** and **C#**. 
+🎓 Computer Science student at **Universidade Franciscana**<br>
+💻 Currently working with **Java**, **C** and **C#**<br>
 🌱 Learning **Spring** and **SQL**
 
 ---
