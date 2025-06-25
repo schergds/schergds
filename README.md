@@ -1,25 +1,5 @@
-# 👋 Hi, I'm Guilherme da Silva Scher
+### About me
 
-🎓 Computer Science student at **Universidade Franciscana**  
-💻 Currently working with **Java**, **C**, **C++** and **C#**  
-🌱 Learning **Spring** and **SQL**
+Hi! I'm Gui, a 19-year-old Computer Science student currently in my 3rd semester. I'm passionate about software development, with a focus on full stack development using Java. I'm constantly learning and building projects to strengthen my skills and expand my experience in both frontend and backend technologies.
 
----
-
-### 🛠️ Languages & Tools
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=dotnet&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=schergds&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=schergds&theme=default" width="48%" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,git,docker,html,css,js)](https://skillicons.dev)
