@@ -1,14 +1,14 @@
-# Computer Science • 6th Semester at UFN
+# Computer Science | 6th Semester | UFN
 
 ---
 
 <div align="center">
 
-### **Tech Stack**
+## Tech Stack
 
 <br>
 
-**Languages**
+### Languages
 <br>
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -17,7 +17,7 @@
 
 <br>
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 <br>
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Django](https://skillicons.dev/icons?i=django)
@@ -26,14 +26,14 @@
 
 <br>
 
-**Databases**
+### Databases
 <br>
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 <br>
 
-**DevOps & Tools**
+### DevOps & Tools
 <br>
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
