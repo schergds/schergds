@@ -1,4 +1,8 @@
-# Computer Science • 6th Semester at UFN
+<div align="center">
+
+# Developer
+
+Computer Science • 6th Semester at UFN
 
 ---
 
@@ -19,7 +23,7 @@
 **Databases**  
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![SQL Server](https://skillicons.dev/icons?i=mssql)
 
 **DevOps & Tools**  
 ![Docker](https://skillicons.dev/icons?i=docker)
@@ -30,9 +34,14 @@
 
 ### **Projects**
 
-* **[Vitrine Virtual](https://vitrine.lapinf.ufn.edu.br/)** — E-commerce platform for artisan products
-* **[SGE](https://sge.lapinf.ufn.edu.br/)** — Event management and certificate generation system
-* **[SOMDiabetes](https://somdiabetes.lapinf.ufn.edu.br/)** — Online diabetes monitoring platform
+**[Vitrine Virtual](https://vitrine.lapinf.ufn.edu.br/)**  
+E-commerce platform for artisan products
+
+**[SGE](https://sge.lapinf.ufn.edu.br/)**  
+Event management and certificate generation system
+
+**[SOMDiabetes](https://somdiabetes.lapinf.ufn.edu.br/)**  
+Online diabetes monitoring platform
 
 ---
 
@@ -41,3 +50,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/schergds)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/schergds)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:schergds@gmail.com)
+
+</div>
