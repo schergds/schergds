@@ -1,41 +1,43 @@
-## Olá!
-
-Sou estudante de **Ciência da Computação (5º semestre)** e atuo no laboratório da faculdade, trabalhando na manutenção e evolução de diversos sistemas internos.
-
-**Contato:**  
-- Email: **schergds@gmail.com**  
-- LinkedIn: **https://www.linkedin.com/in/schergds/**
+# Computer Science • 6th Semester at UFN
 
 ---
 
-## Projetos em Destaque
+### **Tech Stack**
 
-**🔹 [SGE – Sistema de Gestão de Eventos](https://sge.lapinf.ufn.edu.br/)**  
-Plataforma acadêmica para gerenciamento de eventos institucionais.
+**Languages**  
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![C#](https://skillicons.dev/icons?i=cs)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-**🔹 [SOM Diabetes – Sistema Online de Monitoramento da Diabetes](https://somdiabetes.lapinf.ufn.edu.br/)**  
-Sistema voltado ao acompanhamento de dados e métricas para pessoas com diabetes.
+**Frameworks & Libraries**  
+![Spring](https://skillicons.dev/icons?i=spring)
+![Django](https://skillicons.dev/icons?i=django)
+![ASP.NET](https://skillicons.dev/icons?i=dotnet)
+![React](https://skillicons.dev/icons?i=react)
 
-**🔹 [SIEI – Sistema de Informação para Coleta de Indicadores de Atletas em Esportes de Invasão](https://siei.lapinf.ufn.edu.br/)**  
-Ferramenta de coleta, análise e visualização de indicadores esportivos.
+**Databases**  
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+**DevOps & Tools**  
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
-## Hi there
+### **Projects**
 
-I'm a **Computer Science student (5th semester)** and I work in my university’s lab, maintaining and improving internal systems.  
-
-**Contact:**  
-- Email: **schergds@gmail.com**  
-- LinkedIn: **https://www.linkedin.com/in/schergds/**
+* **[Vitrine Virtual](https://vitrine.lapinf.ufn.edu.br/)** — E-commerce platform for artisan products
+* **[SGE](https://sge.lapinf.ufn.edu.br/)** — Event management and certificate generation system
+* **[SOMDiabetes](https://somdiabetes.lapinf.ufn.edu.br/)** — Online diabetes monitoring platform
 
 ---
 
-## Skills
+### **Connect**
 
-### **Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/schergds)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/schergds)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:schergds@gmail.com)
